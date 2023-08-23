@@ -1,6 +1,5 @@
 import scala.io.StdIn.{readDouble, readLine}
 
-
 object Main {
   def main(args: Array[String]): Unit = {
     val phrase = "Hello Scala!"
